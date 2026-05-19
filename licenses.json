@@ -1,6 +1,58 @@
 {
-  "237785205618043": {
-    "key": "1768000000-9f3a7c2b1d4e",
-    "expire": 1768000000
-  }
+  "licenses": [
+    {"key": "X9A2-KL7P-1QWE", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "M4ZX-88QP-L0AS", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "P0QW-77NM-3ZXC", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "T7YU-22JK-9PLM", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "AA12-BB34-CC56", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "ZXCV-ASDF-QWER", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "PLKM-09IJ-87UH", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "NBVC-45RT-67YU", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "QAZX-SWED-CVFR", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "LKJH-GFDS-MNBV", "hwid": "ANY", "expires": "2026-08-01"},
+
+    {"key": "R4T6-Y8UI-O9PL", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "D3F5-G7H9-J2K4", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "Z1X2-C3V4-B5N6", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "A9S8-D7F6-G5H4", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "J1K2-L3M4-N5B6", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "U7Y8-T9R0-E1W2", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "O9P8-I7U6-Y5T4", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "H1G2-F3D4-S5A6", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "V9B8-N7M6-L5K4", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "Q1W2-E3R4-T5Y6", "hwid": "ANY", "expires": "2026-08-01"},
+
+    {"key": "ZX12-CV34-BN56", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "AS78-DF90-GH12", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "JK34-LM56-NB78", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "QW90-ER12-TY34", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "UI56-OP78-AS90", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "DF12-GH34-JK56", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "ZX78-CV90-BN12", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "LK34-JH56-GF78", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "PO90-IU12-YT34", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "RE56-WQ78-AS90", "hwid": "ANY", "expires": "2026-08-01"},
+
+    {"key": "MN12-BV34-CX56", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "ZA78-XC90-VB12", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "QW34-ER56-TY78", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "UI90-OP12-AS34", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "DF56-GH78-JK90", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "ZX12-CV34-BN90", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "LK78-JH90-GF12", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "PO34-IU56-YT78", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "RE90-WQ12-AS34", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "MN56-BV78-CX90", "hwid": "ANY", "expires": "2026-08-01"},
+
+    {"key": "AA11-BB22-CC33", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "DD44-EE55-FF66", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "GG77-HH88-II99", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "JJ00-KK11-LL22", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "MM33-NN44-OO55", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "PP66-QQ77-RR88", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "SS99-TT00-UU11", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "VV22-WW33-XX44", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "YY55-ZZ66-AA77", "hwid": "ANY", "expires": "2026-08-01"},
+    {"key": "BB88-CC99-DD00", "hwid": "ANY", "expires": "2026-08-01"}
+  ]
 }
